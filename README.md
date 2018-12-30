@@ -5,7 +5,7 @@ Optimization algorithm for trading
 ## What is Firefly?
 Firefly is a Nature-inspired metaheuristic optimization algorithm developed by Xin-She Yang at the Cambridge University in 2007 <sup>[1](#myfootnote1)</sup>. The algorithm follows the flashing patterns and behavior of fireflies. Several research papers have been pubished since then with promising results. Most of them compared it versus other well-know metaheuristic algorithms such as the Genetic Algorithm and Particle Swarm Optimiation with promising results (2,3,4). 
 
-## v0.2 motivation
+## Introduction
 FA (Firefly) is an efficient method to solve complex problems such as the travelling salesman problem or to optimize computation time for digital image compression. However, little was studied when it comes to finance related problems. Reason why I decided to study it for my master thesis(2013). The main idea for using FA in finance is to find the optimal parameters for the trading system. In my original paperwork, I got decent results. It outperformed the b&H strategy by 4%. (You can find my original paperwork with the results here.). 
 
 However, my paper got lots of drawbacks such as the use of VBA and Excel for the testing/developing environment, or the usage of poor datasets with biases. Also, the algorithm was only backtested on small population sets with limited time series. Mainly, what lacked  was several performance metrics and stress events to truly measure the algorithm.
