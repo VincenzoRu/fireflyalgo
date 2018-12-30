@@ -1,8 +1,8 @@
-# Firefly algorithm for trading (v0.2)
+# Firefly algorithm (v0.2)
 Optimization algorithm for trading
 
 ### What is Firefly?
-Firefly is a Nature-inspired metaheuristic optimization algorithm developed by Xin-She Yang at the Cambridge University in 2007 <sup>1</sup>. The algorithm follows the flashing patterns and behavior of fireflies. Several research papers have been pubished since then with promising results. Most of them compared it versus other well-know metaheuristic algorithms such as the Genetic Algorithm and Particle Swarm Optimiation with promising results (2,3,4). 
+Firefly is a Nature-inspired metaheuristic optimization algorithm developed by Xin-She Yang at the Cambridge University in 2007 <sup>[1](#myfootnote1)</sup>. The algorithm follows the flashing patterns and behavior of fireflies. Several research papers have been pubished since then with promising results. Most of them compared it versus other well-know metaheuristic algorithms such as the Genetic Algorithm and Particle Swarm Optimiation with promising results (2,3,4). 
 
 ### Firefly for finance v0.2
 FA (Firefly) is an efficient method to solve complex problems such as the travelling salesman problem or to optimize computation time for digital image compression. However, little was studied when it comes to finance related problems. Reason why I decided to study it for my master thesis(2013). The main idea for using FA in finance is to find the optimal parameters for the trading system. In my original paperwork, I got decent results. It outperformed the b&H strategy by 4%. (You can find my original paperwork with the results here.). 
@@ -115,3 +115,7 @@ coming soon...Faster
 
 ### Future developments
 In the near future, I will use the Firefly algorithm in an event-based live environment and compare the results. Also, I would like to use it with different trading strategies and see which of them performs better. Lastly, I would like to integrate some ML variables in the Firefly algorithm
+
+Footnotes
+
+<a name="myfootnote1">1</a>: Footnote content goes here
