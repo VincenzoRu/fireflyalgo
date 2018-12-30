@@ -12,9 +12,9 @@ However, my paper got lots of drawbacks such as the use of VBA and Excel for the
 
 Since then, computer performance improved and developing tools became lighter and faster. With the rise of AI and ML, decreasing transaction costs, and better developing tools, I decided to study/test again the performance in the actual market. 
 
-### Summary of New features
-- Python in conjunction with libraries such as Numpy, Pandas and matplotlib for graphs. 
-- Jupyter notebooks
+## Summary of New features
+- [x] Python in conjunction with libraries such as Numpy, Pandas and matplotlib for graphs. 
+- [x] Jupyter notebooks
 - [x] Custom coded Backtesting system **Done**
 - [ ] Algorithm Classes (Strategy.py, Portfolio.py, Performance.py)
 - Different sorting algorithms(Bubble) and test performances
@@ -107,14 +107,14 @@ Stress events are useful to see if the algo performs well in different scenarios
 
 No graphs were used in original paper. This time, I will use the Pandas framweork to see any potentiona  correlations and .
 
-### Results
+## Results
 coming soon...
 See the the following Jupyter link to test and train the
 
-### Conclusion
+## Conclusion
 coming soon...Faster
 
-### Future developments
+## Future developments
 In the near future, I will use the Firefly algorithm in an event-based live environment and compare the results. Also, I would like to use it with different trading strategies and see which of them performs better. Lastly, I would like to integrate some ML variables in the Firefly algorithm
 
 Footnotes
