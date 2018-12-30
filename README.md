@@ -30,6 +30,10 @@ Since then, computer performance improved and developing tools became lighter an
 - Tested on Stress events
 - Graphs to see potential correlations
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+
 
 - Python in conjunction with libraries such as Numpy, Pandas and matplotlib for graphs. 
 
