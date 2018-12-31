@@ -18,15 +18,15 @@ Since then, computer performance improved and developing tools became lighter an
 |:-------------|:-------------|
 | VBA           | Python        |
 | Excel      | Jupyter notebooks      |
-||Custom coded object-oriented Backtesting system|
-|Bubble | Other sorting algorithms |
-|Biased datasets | No  biases datasets |
-|S&P500 | Single vs portfolio stocks |
+| Bubble sort | Other sorting algorithms (Bubble,Radix,Heat,...) |
+| High Biased datasets | Low  biases datasets |
+|S&P500 benchmark | Single stocks and portfolio |
 |Time Series(Daily,Monthly) | Hourly|
-|Fixed Transactions costs | Variable|
-|MA strategy | MA Cross|
+|Fixed Transactions costs | Variable Transaction costs|
+|MA, MACD, TRB, PT strategy | MA Cross strategy|
+||Custom coded object-oriented Backtesting system|
 ||Performance stats (Sharpe Ratio, Maximum drawdown, VaR,  Beta, ...|
-||Datasets stats(seasonality, ...)|
+||Datasets stats (seasonality, ...)|
 ||Tested on Stress events|
 ||Graphs to see potential correlations|
 
