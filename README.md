@@ -46,3 +46,7 @@ In the near future, I will use the `Firefly` algorithm in an event-based live en
 
 #### ¹ Note One
 [¹]:#-note-one
+
+
+.. |License| image:: https://img.shields.io/badge/license-MIT-blue.svg
+   :target: https://raw.githubusercontent.com/kefir500/ghstats/master/LICENSE
