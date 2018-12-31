@@ -46,4 +46,4 @@ In the near future, I will use the `Firefly` algorithm in an event-based live en
 ### Footnotes
 
 #### ¹ Note One
-[¹]:#-note-one
+[¹]:#-YANG Xin-She, HE Xingshi. « Firefly Algorithm : Recent Advances and Applications ». Int. J. Swarm Intelligence, Vol. 1, No. 1, 36-50p, 2013
