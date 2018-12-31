@@ -15,7 +15,7 @@ Since then, computer performance improved and developing tools became lighter an
 ## Summary of New features
 
 | Original paper| v0.2          |
-|:-------------:|:-------------:|
+|:-------------|:-------------|
 | VBA           | Python        |
 | Excel      | Jupyter notebooks      |
 ||Custom coded object-oriented Backtesting system|
@@ -23,6 +23,12 @@ Since then, computer performance improved and developing tools became lighter an
 |Biased datasets | No  biases datasets |
 |S&P500 | Single vs portfolio stocks |
 |Time Series(Daily,Monthly) | Hourly|
+|Fixed Transactions costs | Variable|
+|MA strategy | MA Cross|
+||Performance stats (Sharpe Ratio, Maximum drawdown, VaR,  Beta, ...|
+||Datasets stats(seasonality, ...)|
+||Tested on Stress events|
+||Graphs to see potential correlations|
 
 
 - [x] Python in conjunction with libraries such as Numpy, Pandas and matplotlib for graphs. 
