@@ -57,4 +57,4 @@ In the near future, I will use the `Firefly` algorithm in an event-based live en
 [³]:#-KWIECIEN-J-FILIPOWICZ-B-Firefly-algorithm-in-optimization-of-queuing-systems-2012
 
 #### ⁴ BACANIN Nebojsa, PELEVIC Branislav, TUBA Milan. "Portfolio Optimization Problem by the Firefly Algorithm".
-[⁴]:#-note-four
+[⁴]:#-BACANIN-Nebojsa-PELEVIC-Branislav-TUBA-Milan-Portfolio-Optimization-Problem-by-the-Firefly-Algorithm
