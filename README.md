@@ -13,6 +13,13 @@ However, my paper got lots of drawbacks such as the use of VBA and Excel for the
 Since then, computer performance improved and developing tools became lighter and faster. With the rise of AI and ML, decreasing transaction costs, and better developing tools, I decided to study/test again the performance in the actual market. 
 
 ## Summary of New features
+
+| Original paper| v0.2          |
+|:-------------:|:-------------:|
+| VBA           | Python        |
+| Excel      | Jupyter notebooks      |
+
+
 - [x] Python in conjunction with libraries such as Numpy, Pandas and matplotlib for graphs. 
 - [x] Jupyter notebooks
 - [x] Custom coded Backtesting system **Done**
@@ -30,11 +37,6 @@ Since then, computer performance improved and developing tools became lighter an
 - Datasets stats(seasonality, ...)
 - Tested on Stress events
 - Graphs to see potential correlations
-
-| Original paper       | v0.2          | Notes  |
-| ------------- |:-------------:| -----:|
-| VBA      | Python | faster |
-| col 2 is      | centered      |   $12 |
 
 
 - Python in conjunction with libraries such as Numpy, Pandas and matplotlib for graphs. 
