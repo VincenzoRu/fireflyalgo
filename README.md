@@ -18,6 +18,11 @@ Since then, computer performance improved and developing tools became lighter an
 |:-------------:|:-------------:|
 | VBA           | Python        |
 | Excel      | Jupyter notebooks      |
+||Custom coded object-oriented Backtesting system|
+|Bubble | Other sorting algorithms |
+|Biased datasets | No  biases datasets |
+|S&P500 | Single vs portfolio stocks |
+|Time Series(Daily,Monthly) | Hourly|
 
 
 - [x] Python in conjunction with libraries such as Numpy, Pandas and matplotlib for graphs. 
@@ -37,12 +42,7 @@ Since then, computer performance improved and developing tools became lighter an
 - Datasets stats(seasonality, ...)
 - Tested on Stress events
 - Graphs to see potential correlations
-
-
-- Python in conjunction with libraries such as Numpy, Pandas and matplotlib for graphs. 
-
-In the original work, VBA was the language used due to lack of ressources and computer performance. The algorithm performed well but the design of the algorithm and the backtesting environment which was Excel was prime of errors and long development. Fragile. 
-Python is used because it is a very fast language to put an idea into code and comes with lots of fast and easy frameworks which makes it an amazing tool for backtesting trading strategies. 
+ 
 
 - Jupyter notebooks
 
