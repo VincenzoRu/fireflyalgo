@@ -47,11 +47,11 @@ In the near future, I will use the `Firefly` algorithm in an event-based live en
 
 #### Footnotes
 
-#### ¹ Xin-She Yang and Xingshi He, (2013). 'Firefly Algorithm: Recent Advances and Applications'
+#### ¹ Xin-She Yang and Xingshi He. 'Firefly Algorithm: Recent Advances and Applications'. 2013
 [¹]:#-note-one
-#### ² Sii
+#### ² APHIRAK Khadwilard. 'Application of Firefly Algorithm and Its Parameter Setting for Job Shop Scheduling'. 2012
 [²]:#-note-two
-#### ¹ sdsd
+#### ³ KWIECIEN J., FILIPOWICZ B. 'Firefly algorithm in optimization of queuing systems'.  2012
 [³]:#-note-three
-#### ¹ sdsd
+#### ⁴ BACANIN Nebojsa, PELEVIC Branislav, TUBA Milan. 'Portfolio Optimization Problem by the Firefly Algorithm'.
 [⁴]:#-note-four
