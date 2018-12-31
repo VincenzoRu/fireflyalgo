@@ -43,7 +43,7 @@ coming soon...Faster
 ## Future developments
 In the near future, I will use the `Firefly` algorithm in an event-based live environment and compare the results. Also, I would like to use it with different trading strategies and see which of them performs better. Lastly, I would like to integrate some ML variables in the `Firefly` algorithm
 
-
+***
 
 #### Footnotes
 
