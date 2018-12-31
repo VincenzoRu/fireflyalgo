@@ -47,5 +47,5 @@ In the near future, I will use the `Firefly` algorithm in an event-based live en
 
 #### Footnotes
 
-¹ YANG Xin-She
+#### ¹ YANG Xin-She
 [¹]:#-note-two
