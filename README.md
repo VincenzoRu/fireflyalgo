@@ -3,7 +3,6 @@
 > Optimization algorithm for trading
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/VincenzoRu/fireflyalgo/blob/master/LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/VincenzoRu/fireflyalgo/total.svg)](https://github.com/VincenzoRu/fireflyalgo.git)
 
 ## What is Firefly?
 `Firefly` is a Nature-inspired metaheuristic optimization algorithm developed by Xin-She Yang at the Cambridge University in 2007 [¹]. The algorithm follows the flashing patterns and behavior of fireflies. Several research papers have been pubished since then with promising results. Most of them compared it versus other well-know metaheuristic algorithms such as the Genetic Algorithm and Particle Swarm Optimiation with promising results[¹][¹][¹][¹]. 
