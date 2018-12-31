@@ -47,6 +47,9 @@ In the near future, I will use the `Firefly` algorithm in an event-based live en
 
 #### Footnotes
 
+#### ² Note Two
+[²]:#-note-two
+
 #### ¹ Xin She Yang and Xingshi He. 'Firefly Algorithm: Recent Advances and Applications'. 2013
 [¹]:#-note-one
 
